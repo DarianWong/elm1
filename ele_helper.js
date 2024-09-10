@@ -1,3 +1,9 @@
+
+/**
+ * 变量：elmck: 必填，账号cookie
+ cron 0 0 0 * * * ele_helper.js
+ */
+
 const $ = new Env('天天赚');
 
 const {
