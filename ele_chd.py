@@ -1,3 +1,7 @@
+"""
+57 21,9 * * * ele_chd.py
+"""
+
 import hashlib
 import os
 import re
