@@ -1,3 +1,5 @@
+const $ = new Env('不用定时执行');
+
 'use strict';
 
 const got = require('got');
