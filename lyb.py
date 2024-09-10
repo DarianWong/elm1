@@ -1,3 +1,7 @@
+"""
+cron: 0 3,9,15 * * *
+"""
+
 import hashlib
 import os
 import time
