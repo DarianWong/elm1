@@ -1,3 +1,8 @@
+"""
+new Env('贪吃蛇');
+5 2,11,17,22 * * * elm_tyt.py
+"""
+
 import os
 import re
 import time
