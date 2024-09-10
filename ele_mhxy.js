@@ -3,7 +3,7 @@
 cron 33 1,6,12,18,21 * * * ele_mhxy.js
  * 需要手动玩到四级才能跑
  */
-
+const $ = new Env('梦幻庭院');
 const {
     "getToken": getToken,
     "tryCatchPromise": tryCatchPromise,
