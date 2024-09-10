@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+"""
+new Env('删除');
+"""
 # _*_ coding:utf-8 _*_
 import base64
 import hashlib
