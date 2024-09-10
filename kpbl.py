@@ -1,3 +1,8 @@
+"""
+new Env('卡皮巴拉');
+5 2,11,17,22 * * * elm_tyt.py
+"""
+
 import json
 import logging
 import os
