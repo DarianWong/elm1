@@ -1,3 +1,5 @@
+const $ = new Env('天天赚');
+
 const {
   sign,
   getToken,
