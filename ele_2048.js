@@ -1,3 +1,9 @@
+/**
+ * 变量：elmck: 必填，账号cookie
+cron 5 4,10,14,20 * * * ele_2048.js
+ * 需要手动玩到四级才能跑
+ */
+
 const {
   getToken,
   sign,
