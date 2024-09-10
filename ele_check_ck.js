@@ -1,3 +1,5 @@
+
+const $ = new Env('自动续期');
 const {
     getEnvsByName,
     DisableCk,
