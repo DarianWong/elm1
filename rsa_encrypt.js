@@ -1,3 +1,5 @@
+const $ = new Env('不用定时执行');
+
 const rsaFunc = (e, t, r) => {
     var n = "0123456789abcdefghijklmnopqrstuvwxyz";
     function i (e) {
