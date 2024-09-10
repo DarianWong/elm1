@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+"""
+5 2,11,17,22 * * * lgqs.py
+"""
+
+
 import hashlib
 import os
 import re
