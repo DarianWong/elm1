@@ -1,6 +1,7 @@
 /**
  * 变量：elmck: 必填，账号cookie
  
+ cron: 17 3,10,14,20 * * * ele_tjcs.js
  */
 
 const $ = new Env('饿了么特级厨师');
