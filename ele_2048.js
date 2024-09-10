@@ -3,6 +3,8 @@
 cron 5 4,10,14,20 * * * ele_2048.js
  */
 
+const $ = new Env('饿了么2048');
+
 const {
   getToken,
   sign,
