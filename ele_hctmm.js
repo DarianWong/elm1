@@ -1,3 +1,6 @@
+
+const $ = new Env('合成甜蜜蜜');
+
 const {
   sign,
   getToken,
