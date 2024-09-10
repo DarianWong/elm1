@@ -1,5 +1,5 @@
 """
-57 21,9 * * * ele_chd.py
+5 3,12,18,22 * * * ele_chd.py
 """
 
 import hashlib
