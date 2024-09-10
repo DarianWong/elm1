@@ -1,4 +1,7 @@
-
+/**
+ * 变量：elmck: 必填，账号cookie
+cron 30 1,8,15 * * * ele_elge.js
+ */
 const $ = new Env('饿了个饿');
 const {
   sign,
