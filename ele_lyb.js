@@ -3,6 +3,7 @@
  7 1,6,11,13,28 * * * ele_lyb.js
  * 修复连连看
  */
+const $ = new Env('乐园币js版');
 const {
     "getToken": getToken,
     "checkCk": checkCk,
