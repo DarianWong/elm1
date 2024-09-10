@@ -1,4 +1,7 @@
-
+/**
+ * 变量：elmck: 必填，账号cookie
+ cron 21 3,8,13,20 * * * ele_hctmm.js
+ */
 const $ = new Env('合成甜蜜蜜');
 
 const {
