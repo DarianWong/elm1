@@ -1,3 +1,7 @@
+/**
+ * 变量：elmck: 必填，账号cookie
+cron 30 7,15,23 * * * ele_check_ck.js
+ */
 
 const $ = new Env('自动续期');
 const {
