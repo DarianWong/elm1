@@ -1,6 +1,6 @@
 """
 new Env('贪吃蛇');
-5 2,11,17,22 * * * elm_tyt.py
+5 2,11,17,22 * * * tcs.py
 """
 
 import os
