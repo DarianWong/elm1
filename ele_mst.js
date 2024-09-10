@@ -1,3 +1,7 @@
+/**
+ * 变量：elmck: 必填，账号cookie
+ cron 0 0 3,6,12,18,22 *** ele_mst.js
+ */
 const $ = new Env('饿了么美食摊');
 
 const {
