@@ -1,6 +1,6 @@
-'''
+"""
 new Env('删除');
-'''
+"""
 import os
 import re
 import time
